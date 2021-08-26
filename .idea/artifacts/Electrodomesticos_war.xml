@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Electrodomesticos:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>Electrodomesticos</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="CRUD_APARATOS-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="Electrodomesticos:war exploded" />
+    </root>
+  </artifact>
+</component>
